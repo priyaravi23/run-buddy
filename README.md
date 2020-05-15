@@ -1,3 +1,3 @@
 ## Run Buddy Application
 
-![](images/mock-up.jpg)
+![](assets/images/mock-up.jpg)
